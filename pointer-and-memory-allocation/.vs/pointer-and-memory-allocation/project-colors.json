@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5640481d-2ab4-4a8f-955d-37eade5b134d": {
+      "ProjectGuid": "5640481d-2ab4-4a8f-955d-37eade5b134d",
+      "DisplayName": "pointer-and-memory-allocation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
